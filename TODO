@@ -1,0 +1,2 @@
+Bâtir et exécuter automatiquement
+pyinstaller --onefile --add-data "SAML.xml;office365/runtime/auth/providers/templates" dédevoir.py ; cp dist/dédevoir.exe dédevoir.exe ; ./dédevoir.exe

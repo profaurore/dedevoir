@@ -1,0 +1,7 @@
+__pycache__/
+build/
+dist/
+*.exe
+*.spec
+*.manifest
+dédevoir_sites_enregistrés.txt
